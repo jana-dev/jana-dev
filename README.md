@@ -7,7 +7,6 @@ Atualmente estou estudando:
 - CSS3
 - Javascript
 - Jquery
-- PHP
-- Wordpress
+
 
 
