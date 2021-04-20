@@ -7,6 +7,6 @@ Atualmente estou estudando:
 - CSS3
 - Javascript
 - Jquery
-
+- React
 
 
