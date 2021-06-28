@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Estou iniciando no mundo da programação, mais específicamente em Front End!
+Estou iniciando os estudos em Desenvolvimento Front End!
 
 Atualmente estou estudando:
 - HTML5
