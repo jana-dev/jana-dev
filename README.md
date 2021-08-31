@@ -1,12 +1,3 @@
 ### Olá 👋
 
-Estou iniciando os estudos em Desenvolvimento Front End!
-
-Atualmente estou estudando:
-- HTML5
-- CSS3
-- Javascript
-- Jquery
-- React
-
-
+Já fui Dev Front-end e atualmente estou me especializando em Desenvolvimento Unity com C#
