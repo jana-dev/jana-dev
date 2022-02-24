@@ -1,3 +1,8 @@
 ### Olá 👋
 
-Já fui Dev Front-end e atualmente estou me especializando em Desenvolvimento Unity com C#
+Meu objetivo é me especializar em Web full stack.
+
+Começando pelas tecnologias de front-end:
+HTML5, CSS3, Javascript e React.
+
+E também ferramentas de: Metodologias ágeis e GIT.
