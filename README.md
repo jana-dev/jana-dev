@@ -1,10 +1,11 @@
 ### Olá 👋
 
-Meu objetivo é me especializar em Web full stack.
+Meu objetivo é me especializar em Web Full Stack.
 
 Começando pelas tecnologias de front-end:
-HTML5, CSS3, Javascript e React.
+- HTML5
+- CSS3
+- Javascript
+- React
 
-E também ferramentas de: Metodologias ágeis e GIT.
-
-Por hobby gosto de criar games, começando a estudar C# para Unity.
+Por hobby gosto de criar games e estudo também C# para Unity.
