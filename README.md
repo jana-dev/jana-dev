@@ -1,11 +1,13 @@
 ### Olá 👋
 
-Meu objetivo é me especializar em Web Full Stack.
+Atualmente sou professora de programação para crianças e adolescentes!
 
-Começando pelas tecnologias de front-end:
-- HTML5
-- CSS3
-- Javascript
-- React
+Para elas, eu ensino:
+- HTML, CSS e Javascript
+- GDevelop Games - Javascript
+- Minecraft - Javascript
+- Roblox Studio - LUA
+- Unity - c#
 
-Por hobby gosto de criar games e estudo também C# para Unity.
+Estou estudando React Native pois quero ingressar na área para continuar evoluindo com as tendências do mercado!
+
