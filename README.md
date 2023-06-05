@@ -9,5 +9,5 @@ Para elas, eu ensino:
 - Roblox Studio - LUA
 - Unity - c#
 
-Estou estudando React Native pois quero ingressar na área para continuar evoluindo com as tendências do mercado!
+Estou estudando React Native e React.js pois quero ingressar na área de front-end para continuar evoluindo com as tendências do mercado!
 
