@@ -5,9 +5,12 @@ Atualmente sou professora de programação para crianças e adolescentes!
 Para elas, eu ensino:
 - HTML, CSS e Javascript
 - GDevelop Games - Javascript
-- Minecraft - Javascript
+- Minecraft - Javascript e Python
 - Roblox Studio - LUA
-- Unity - c#
+- Unity - C#
 
-Estou estudando React Native e React.js pois quero ingressar na área de front-end para continuar evoluindo com as tendências do mercado!
+Graduanda em Desenvolvimento Mobile 1º semestre, estudando:
+- Python
+- Lógica de Programação com C
+
 
