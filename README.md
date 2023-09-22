@@ -8,9 +8,12 @@ Para elas, eu ensino:
 - Minecraft - Javascript e Python
 - Roblox Studio - LUA
 - Unity - C#
+- React Native
+- Python
 
 Graduanda em Desenvolvimento Mobile 1º semestre, estudando:
 - Python
-- Lógica de Programação com C
+- Lógica de Programação com C (sempre é bom revisar rsrs)
+- Engenharia de Software: Git, Scrum, Testes, Boas práticas.
 
 
