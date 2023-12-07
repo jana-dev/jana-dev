@@ -1,7 +1,9 @@
 ### Olá 👋
 
-Sou professora particular de programação para crianças e adolescentes!
+Em busca de uma vaga Front End Júnior para continuar evoluindo com o mercado!
 
+
+Sou professora particular de programação para crianças e adolescentes!
 Para elas, eu ensino:
 - HTML, CSS e Javascript
 - GDevelop Games - Javascript
