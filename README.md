@@ -1,6 +1,7 @@
 ### Olá 👋
 
 Sou a Janaina e estou me especializando em Front-end Web e Mobile.
+Estudando: React.js, Typescript, Tailwind, Styled Components. 
 
 Em busca de uma vaga Front End Júnior para continuar evoluindo com o mercado!
 
@@ -19,6 +20,6 @@ Graduanda em Desenvolvimento Mobile 2º semestre, estudando:
 - Análise e Modelagem de Sistemas
 - Orientação a Objetos
 - Desenvolvimento Mobile - Java
-- Desenvolvimento de Banco de Dados
+- Desenvolvimento de Banco de Dados SQL
 
 
