@@ -1,7 +1,8 @@
 ### Olá 👋
 
 Sou a Janaina e estou me especializando em Front-end Web e Mobile.
-Estudando: React.js, Typescript, Tailwind, Styled Components. 
+
+# Estudando: React.js, Typescript, Tailwind, Styled Components. 
 
 Em busca de uma vaga Front End Júnior para continuar evoluindo com o mercado!
 
