@@ -2,7 +2,7 @@
 
 Sou a Janaina e estou me especializando em Desenvolvimento Android com Java e Kotlin.
 
-Em busca de uma vaga para Desenvolvedora Android!
+Em busca de uma vaga como Desenvolvedora Android!
 
 Atualmente atuo como professora particular de programação para crianças!
 Para elas, eu ensino:
