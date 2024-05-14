@@ -8,7 +8,7 @@ Atualmente atuo como professora particular de programação para crianças!
 Para elas, eu ensino:
 - HTML, CSS e Javascript
 - Web Avançado com React.js
-- Aplicativos com React Native
+- Aplicativos com React Native e Android Studio
 - Redes Neurais e IA com Python
 - GDevelop Games - Javascript
 - Minecraft - Javascript e Python
