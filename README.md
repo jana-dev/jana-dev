@@ -11,7 +11,6 @@ Para elas, eu ensino:
 - Aplicativos com React Native e Android Studio
 - Redes Neurais e IA com Python
 - GDevelop Games - Javascript
-- Minecraft - Javascript e Python
 - Roblox Studio - LUA
 - Unity - C#
 
