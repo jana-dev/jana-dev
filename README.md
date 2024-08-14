@@ -14,10 +14,10 @@ Para elas, eu ensino:
 - Roblox Studio - LUA
 - Unity - C#
 
-Graduanda em Desenvolvimento Mobile 2º semestre, estudando:
-- Análise e Modelagem de Sistemas
-- Orientação a Objetos
-- Desenvolvimento Mobile - Java
-- Desenvolvimento de Banco de Dados MySQL
+Graduanda em Desenvolvimento Mobile 3º semestre, estudando:
+- Sistemas Operacionais Mobile (entendendo sobre a arquitetura Android e IOS)
+- Desenvolvimento de Aplicações Android ( se aprofundando em Java e Kotlin)
+- Desenvolvimento de Aplicações IOS com Swift
+- Projeto de Desenvolvimento de Games (planejamento, gestão e equipes)
 
 
