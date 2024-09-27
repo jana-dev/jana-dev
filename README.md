@@ -1,10 +1,10 @@
 <img src="./androidgit.png" alt="ilustração logo android" width="300" align="right">
 
-### Olá, eu sou a Jana 👋
+<h1>Olá, eu sou a Jana 👋</h1>
 
-Atualmente estou me especializando em Desenvolvimento Android, graduanda em Tecnologia em Desenvolvimento Mobile.
+Atualmente me especializando em Desenvolvimento Android com Java e Kotlin.
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; text-decoration: none">
   <a href="https://www.linkedin.com/in/janainaktdev/">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
