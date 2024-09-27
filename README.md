@@ -5,8 +5,7 @@
 Atualmente estou me especializando em Desenvolvimento Android, graduanda em Tecnologia em Desenvolvimento Mobile.
 
 <div style="display:'flex'">
-  [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janainaktdev/)
-
+ [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janainaktdev/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5541998244791?text=Ol%C3%A1%2C%20peguei%20seu%20n%C3%BAmero%20no%20github%2C%20podemos%20conversar%3F)
 </div>
 
