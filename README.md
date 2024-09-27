@@ -2,7 +2,7 @@
 
 ### Olá, eu sou a Jana 👋
 <p align="left">
-  Graduanda em Desenvolvimento Mobile 3º trimestre com foco em Java e Kotlin, participando de uma mentoria para aprofundar ainda mais os estudos em Desenvolvimento Android e sempre companhando os estudos pela documentação oficial pelo Google Developers. Possuo experiência como Desenvolvedora web front-end, onde já estagiei em startups. Há mais de 3 anos dou aulas particulares de programação para crianças e adolescentes onde me aprofundei em pensamento computacional, lógica de programação, tecnologias para desesenvolvimento web como Html, CSS, Javascript, React, consumo de API's, firebase e desenvolvimento de jogos com Lua ( Roblox Studio) e C# (Unity). O ponto mais importante da minha tragetória foi ter tido a oportunidade de aprender várias linguagens e hoje possuo muita facilidade em aprender tecnologias novas e me adaptar rapidamente pois compreendi que a base para ser uma boa programadora é saber resolver problemas independente da linguagem escolhida.
+  Atualmente estou me especializando em Desenvolvimento Android, graduanda em Tecnologia em Desenvolvimento Mobile
 </p>
 
  🔭 Metas para 2024/2025: ter no mínimo 3 apps próprios publicados no google play e entrar no mercado de trabalho como Android Developer.
