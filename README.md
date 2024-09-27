@@ -1,4 +1,4 @@
-<img src="./androidgit.png" alt="ilustração logo android" width="300" align="right">
+<img src="./androidgit.png" alt="ilustração logo android" width="100">
 
 <h1>Olá, eu sou a Jana 👋</h1>
 
