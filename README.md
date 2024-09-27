@@ -10,7 +10,7 @@ Atualmente me especializando em Desenvolvimento Android com Java e Kotlin.
 🔭 **Metas para 2024/2025**: ter no mínimo 3 apps próprios publicados no Google Play e entrar no mercado de trabalho como Android Developer.
 
 ### Sobre mim:
-- 🎓 Graduanda em Desenvolvimento Mobile
+- 🎓 Graduanda em Desenvolvimento Mobile 3º semestre
 - 💻 Experiência de 4 anos na área da programação
 - 👩‍🏫 Atualmente dou aulas particulares de programação para crianças e adolescentes
 
