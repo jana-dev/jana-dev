@@ -1,4 +1,4 @@
-![ilustração logo android](./androidgit.png)
+<img src="./androidgit.png" alt="ilustração logo android" width="300" align="right">
 
 ### Olá, eu sou a Jana 👋
 
