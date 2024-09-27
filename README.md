@@ -20,5 +20,10 @@ Atualmente estou me especializando em Desenvolvimento Android, graduanda em Tecn
 - 💻 Experiência de 4 anos na área da programação
 - 👩‍🏫 Atualmente dou aulas particulares de programação para crianças e adolescentes
 
+Principais tecnologias:
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 [![jana-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=jana-dev)](https://github.com/anuraghazra/github-readme-stats)
