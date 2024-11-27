@@ -11,7 +11,7 @@ Atualmente me especializando em Desenvolvimento Android com Java e Kotlin.
 
 ### Sobre mim:
 - 🎓 Graduanda em Desenvolvimento Mobile 3º semestre
-- 💻 Experiência de 4 anos na área da programação
+- 💻 Experiência de 3 anos na área da programação como Front-end
 - 👩‍🏫 Atualmente dou aulas particulares de programação para crianças e adolescentes
 
 ### Principais tecnologias:
