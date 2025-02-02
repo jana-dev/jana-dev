@@ -7,10 +7,10 @@ Atualmente me especializando em Desenvolvimento Android com Java e Kotlin.
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janainaktdev/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5541998244791?text=Ol%C3%A1%2C%20peguei%20seu%20n%C3%BAmero%20no%20github%2C%20podemos%20conversar%3F)
 
-🔭 **Metas para 2024/2025**: ter no mínimo 3 apps próprios publicados no Google Play e entrar no mercado de trabalho como Android Developer.
+🔭 **Metas para 2025**: ter no mínimo 3 apps próprios publicados no Google Play e entrar no mercado de trabalho como Android Developer.
 
 ### Sobre mim:
-- 🎓 Graduanda em Desenvolvimento Mobile 3º semestre
+- 🎓 Graduanda em Desenvolvimento Mobile 4º semestre
 - 💻 Experiência de 3 anos na área da programação como Front-end
 - 👩‍🏫 Atualmente dou aulas particulares de programação para crianças e adolescentes
 
